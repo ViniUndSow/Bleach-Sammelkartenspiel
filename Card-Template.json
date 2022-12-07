@@ -1,0 +1,48 @@
+[
+  {
+    "cardtype": "",
+    "hp_offinsive": ,
+    "hp_defensive": ,
+    "hp_as_fight_card": ,
+    "hp_bonus"
+    "name": [
+      {
+        "language": "de",
+        "translation": ""
+      }
+    ],
+    "properties": [
+
+    ],
+    "effect": [
+      {
+        "effectype": "ABILITY"
+      },
+      {
+        "effectype": "EFFECT"
+      }
+    ],
+    "flavortext": [
+      {
+        "language": "de",
+        "translation": ""
+      }
+    ],
+    "cost": ,
+    "cardId": "",
+    "subtitle": [
+      {
+        "language": "de",
+        "translation": ""
+      }
+    ],
+    "user": [
+      {
+        "language": "de",
+        "translation": ""
+      }
+    ],
+    "hasZanpalutoRestriction": true,
+
+  }
+]
