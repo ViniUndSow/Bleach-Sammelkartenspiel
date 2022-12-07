@@ -1,0 +1,39 @@
+[
+    {
+    "cardId": "E-008",
+    "cardtype": "EREIGNIS",
+    "hp_offinsive": null,
+    "hp_defensive": null,
+    "hp_as_fight_card": 100,
+    "hp_bonus": null,
+    "name": [
+      {
+        "language": "de",
+        "translation": "Shop Urahara greift ein!!"
+      }
+    ],
+    "properties": null,
+    "effect": [
+      {
+        "effectype": "EFFECT",
+        "effectText": [
+          {
+            "language": "de",
+            "translation": "Wähle eine Hauptseele deines Gegners aus und bohre dein Zanpakuto in sie. Befindet sich die von deinem Zanpakuto durchbihrte Hauptseele im Entfesslungszustand, so wird dieser aufgehoben."
+          }
+        ],
+      }
+    ],
+    "flavortext": [
+      {
+        "language": "de",
+        "translation": "Auf geht's! Ziehen wir die Ware wieder ein!"
+      }
+    ],
+    "cost": 2,
+    
+    "subtitle": null,
+    "user": "KISUKE_URAHARA",
+    "hasZanpakutoRestriction": true,
+  }
+]
