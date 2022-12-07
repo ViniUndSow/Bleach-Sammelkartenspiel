@@ -1,5 +1,5 @@
 [
-    {
+  {
     "cardId": "E-008",
     "cardtype": "EREIGNIS",
     "hp_offinsive": null,
@@ -21,7 +21,7 @@
             "language": "de",
             "translation": "Wähle eine Hauptseele deines Gegners aus und bohre dein Zanpakuto in sie. Befindet sich die von deinem Zanpakuto durchbihrte Hauptseele im Entfesslungszustand, so wird dieser aufgehoben."
           }
-        ],
+        ]
       }
     ],
     "flavortext": [
@@ -31,14 +31,13 @@
       }
     ],
     "cost": 2,
-    
     "subtitle": null,
     "user": "KISUKE_URAHARA",
     "restrictions": [
-         "ZANPAKUTO"
+      "ZANPAKUTO"
     ]
   },
-    {
+  {
     "cardId": "B-005",
     "cardtype": "KAMPF",
     "hp_offinsive": null,
@@ -63,10 +62,10 @@
     "subtitle": null,
     "user": "RUKIA_KUCHIKI",
     "restrictions": [
-         "ZANPAKUTO"
+      "ZANPAKUTO"
     ]
   },
-     {
+  {
     "cardId": "B-004",
     "cardtype": "KAMPF",
     "hp_offinsive": null,
@@ -88,7 +87,7 @@
             "language": "de",
             "translation": "Wenn du diesen Kampf gewinnst,muss dein Gegner seine Hauptseele, die den Kampf verloren hat, auf seinen Ablagestapel legen, Der Entfesselungszustand des Benutzers dieser Karte wird am Ende des Kampfes aufgehalten."
           }
-        ],
+        ]
       }
     ],
     "flavortext": [
@@ -101,8 +100,67 @@
     "subtitle": null,
     "user": "ICHIGO_KUROSAKI",
     "restrictions": [
-         "ZANPAKUTO",
-         "ENTFESSELUNGSZUSTAND"
+      "ZANPAKUTO",
+      "ENTFESSELUNGSZUSTAND"
     ]
+  },
+  {
+    "cardId": "B-006",
+    "cardtype": "KAMPF",
+    "hp_offinsive": null,
+    "hp_defensive": null,
+    "hp_as_fight_card": 100,
+    "hp_bonus": 400,
+    "holographic": true,
+    "name": [
+      {
+        "language": "de",
+        "translation": "33. Pfad der Vernichtung SOKATSU!!"
+      }
+    ],
+    "properties": null,
+    "effect": null,
+    "flavortext": [
+      {
+        "language": "de",
+        "translation": "Bette Deine Krallen in die Wände des Traumes frei von Schuld !!"
+      }
+    ],
+    "cost": 1,
+    "subtitle": null,
+    "user": "RUKIA_KUCHIKI",
+    "restrictions": null
+  },
+  {
+    "cardId": "B-006",
+    "cardtype": "HAUPTSEELE",
+    "hp_offinsive": 300,
+    "hp_defensive": 100,
+    "hp_as_fight_card": 100,
+    "hp_bonus": null,
+    "holographic": true,
+    "name": [
+      {
+        "language": "de",
+        "translation": "33. Pfad der Vernichtung SOKATSU!!"
+      }
+    ],
+    "properties": null,
+    "effect": null,
+    "flavortext": [
+      {
+        "language": "de",
+        "translation": "Bette Deine Krallen in die Wände des Traumes frei von Schuld !!"
+      }
+    ],
+    "cost": 0,
+    "subtitle": [
+      {
+        "language": "de",
+        "translation": "Der Tod und die Erdbeere"
+      }
+    ],
+    "user": "RUKIA_KUCHIKI",
+    "restrictions": null
   }
 ]
