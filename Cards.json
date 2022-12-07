@@ -34,7 +34,9 @@
     
     "subtitle": null,
     "user": "KISUKE_URAHARA",
-    "hasZanpakutoRestriction": true,
+    "restrictions": [
+         "ZANPAKUTO"
+    ]
   },
     {
     "cardId": "B-005",
@@ -60,6 +62,47 @@
     "cost": 0,
     "subtitle": null,
     "user": "RUKIA_KUCHIKI",
-    "hasZanpakutoRestriction": false,
+    "restrictions": [
+         "ZANPAKUTO"
+    ]
+  },
+     {
+    "cardId": "B-004",
+    "cardtype": "KAMPF",
+    "hp_offinsive": null,
+    "hp_defensive": null,
+    "hp_as_fight_card": 100,
+    "hp_bonus": 800,
+    "name": [
+      {
+        "language": "de",
+        "translation": "Mächtiger Schwinger"
+      }
+    ],
+    "properties": null,
+    "effect": [
+      {
+        "effectype": "EFFECT",
+        "effectText": [
+          {
+            "language": "de",
+            "translation": "Wenn du diesen Kampf gewinnst,muss dein Gegner seine Hauptseele, die den Kampf verloren hat, auf seinen Ablagestapel legen, Der Entfesselungszustand des Benutzers dieser Karte wird am Ende des Kampfes aufgehalten."
+          }
+        ],
+      }
+    ],
+    "flavortext": [
+      {
+        "language": "de",
+        "translation": "Diese ungeheure spirituelle Energie ? Was ist das..?"
+      }
+    ],
+    "cost": 1,
+    "subtitle": null,
+    "user": "ICHIGO_KUROSAKI",
+    "restrictions": [
+         "ZANPAKUTO",
+         "ENTFESSELUNGSZUSTAND"
+    ]
   }
 ]
