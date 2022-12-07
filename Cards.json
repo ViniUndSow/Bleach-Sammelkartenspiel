@@ -35,5 +35,31 @@
     "subtitle": null,
     "user": "KISUKE_URAHARA",
     "hasZanpakutoRestriction": true,
+  },
+    {
+    "cardId": "B-005",
+    "cardtype": "KAMPF",
+    "hp_offinsive": null,
+    "hp_defensive": null,
+    "hp_as_fight_card": 100,
+    "hp_bonus": 300,
+    "name": [
+      {
+        "language": "de",
+        "translation": "Knietritt-Sprung"
+      }
+    ],
+    "properties": null,
+    "effect": null,
+    "flavortext": [
+      {
+        "language": "de",
+        "translation": "Twakk!"
+      }
+    ],
+    "cost": 0,
+    "subtitle": null,
+    "user": "RUKIA_KUCHIKI",
+    "hasZanpakutoRestriction": false,
   }
 ]
