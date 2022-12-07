@@ -1,1 +1,56 @@
-
+[
+  {
+    "type": "EREIGNIS",
+    "translations": [
+      {
+        "language": "de",
+        "translation": "Ereignis"
+      }
+    ]
+  },
+  {
+    "type": "HAUPTSEELE",
+    "translations": [
+      {
+        "language": "de",
+        "translation": "Hauptseele"
+      }
+    ]
+  },
+  {
+    "type": "HILFSSEELE",
+    "translations": [
+      {
+        "language": "de",
+        "translation": "Hilfsseele"
+      }
+    ]
+  },
+  {
+    "type": "ENTFESSELTE_SEELE",
+    "translations": [
+      {
+        "language": "de",
+        "translation": "Entfesselte Seele"
+      }
+    ]
+  },
+  {
+    "type": "KAMPF",
+    "translations": [
+      {
+        "language": "de",
+        "translation": "Kampf"
+      }
+    ]
+  },
+  {
+    "type": "WAFFE",
+    "translations": [
+      {
+        "language": "de",
+        "translation": "Waffe"
+      }
+    ]
+  }
+]
