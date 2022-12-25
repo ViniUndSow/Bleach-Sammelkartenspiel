@@ -1,0 +1,18 @@
+[
+ {
+  "set_type": "" 
+  "set_names" :[
+    "translation" : {
+     "language_short" : "", 
+     "translation" : "", 
+     
+    } 
+  ], 
+  "release_dates" : [
+    "release_date": {
+      "date" : "", 
+      "region" : ""
+    } 
+  ] 
+ } 
+] 
